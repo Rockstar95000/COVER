@@ -4,7 +4,7 @@
 ## AIM:
 To design a book front cover page using HTML and CSS.
 
-## DESIGN STEPS:
+## DESIGN STEPS: 
 
 ### Step 1:
 Create a Django Admin project.
